@@ -6,6 +6,7 @@
     background-image: url("../images/puppy-full.jpg");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .test2 img{
